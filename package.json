@@ -1,0 +1,20 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "lite",
+    "level"
+  ],
+  "author": "shantix",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "rc-slider": "^9.3.1"
+  }
+}
